@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">All for one</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem_headings">Lorem ipsum dolor sit amet consectetur adipisicing elit.</string>
+    <string name="lorem_paras">Doloremque repellendus vel excepturi iusto eligendi dolore similique aspernatur maiores neque dolores corporis facilis inventore alias ab culpa ullam, id maxime adipisci.</string>
+    <string name="further_resources">Further Resources for help</string>
+    <string name="policy_disclaimers">Policies and Disclaimers</string>
+    <string name="okay_btn_txt">Okay</string>
+</resources>
